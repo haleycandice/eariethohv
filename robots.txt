@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vadaexiech.pakastin.fi/sitemap.xml
